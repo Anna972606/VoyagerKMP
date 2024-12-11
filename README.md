@@ -19,3 +19,15 @@ We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public S
 If you face any issues, please report them on [GitHub](https://github.com/JetBrains/compose-multiplatform/issues).
 
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
+
+My medium : https://medium.com/@anna972606
+Below is an example of navigation with Voyager in KMP
+Android Side
+
+
+https://github.com/user-attachments/assets/3cf5743b-73a6-44e6-bd89-c0d2c7ab64cb
+
+IOS side
+
+https://github.com/user-attachments/assets/f7b6eedd-3bcc-4ead-b19b-707820d95f8e
+
