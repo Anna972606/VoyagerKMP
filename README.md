@@ -21,7 +21,9 @@ If you face any issues, please report them on [GitHub](https://github.com/JetBra
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
 
 My medium : https://medium.com/@anna972606
+
 My article : https://medium.com/@anna972606/navigation-with-voyager-kotlin-multiplatform-kmp-d84de490dcde
+
 Below is an example of navigation with Voyager in KMP
 Android Side
 
